@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldExtenderWebAPI", "WorldExtenderWebAPI\WorldExtenderWebAPI.csproj", "{595AA229-B83F-4C44-9DAE-47226D0AA9DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorldExtenderDataAccess", "WorldExtenderDataAccess\WorldExtenderDataAccess.csproj", "{822278AF-EBDD-4F8F-B2A4-75DF112B580F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{595AA229-B83F-4C44-9DAE-47226D0AA9DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{595AA229-B83F-4C44-9DAE-47226D0AA9DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{595AA229-B83F-4C44-9DAE-47226D0AA9DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{822278AF-EBDD-4F8F-B2A4-75DF112B580F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{822278AF-EBDD-4F8F-B2A4-75DF112B580F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{822278AF-EBDD-4F8F-B2A4-75DF112B580F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{822278AF-EBDD-4F8F-B2A4-75DF112B580F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
